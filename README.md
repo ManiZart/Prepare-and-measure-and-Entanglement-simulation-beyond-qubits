@@ -16,3 +16,5 @@ The code needed to run the numerical simulations of the paper titled by: Prepare
 13- Inside the functions, the inputs of the protocols are set such that the number of outputs become statistically comparable for a fair judgement of their TVD.
 14- For PMON-2B in d=2. One should use the functions defined in the section: PMON-2B-d=2. For d=3,4, the appropriate functions are defined in section PMON-2B-d=3,4.
 15- for checking the threshold delta, the code iterates from the first 20 inputs that used for the PM-scenario.
+16- In the code, the protocol PMON-2A is labled as PMON-B1.
+17- In the code, the protocol PMON-1 is labeld as PMON-A1.
